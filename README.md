@@ -7,7 +7,7 @@
 * 游戏是用python的pygame写的，相比于虚幻引擎或unity，这玩意儿学习成本低。~~懒人的首选~~
 * python文件后缀名用.pyw保存，运行时不会有控制台的小黑窗口跳出来。
 * 游戏图片资源放在res文件夹里，游戏内写有一个函数加载所有资源，返回一个字典
-> ```
+> ```python
 > def loadImage():  # 载入游戏所需素材，返回库imageDict，字典类型
 >     # 为配合pyinstaller，写了一个我也搞不懂什么意思的if else
 >     if getattr(sys, 'frozen', False):
