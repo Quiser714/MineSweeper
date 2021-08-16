@@ -1,7 +1,7 @@
 # MineSweeper
 __在win10玩扫雷__
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1592669172087&di=850fbbaced39678785b5acdf3ea2e8f4&imgtype=0&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20131221%2F20131221060140-2027942049.jpg" width=300 alt="扫雷">
+<img src="https://img2.baidu.com/it/u=1286218007,203447163&fm=26&fmt=auto&gp=0.jpg" width=300 alt="扫雷">
 
 ## 闲话时间
 * 游戏是用python的pygame写的，相比于虚幻引擎或unity，这玩意儿学习成本低。~~懒人的首选~~
